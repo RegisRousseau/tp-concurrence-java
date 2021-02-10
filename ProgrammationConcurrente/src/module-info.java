@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Régis
+ *
+ */
+module ProgrammationConcurrente {
+}
